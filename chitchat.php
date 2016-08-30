@@ -361,3 +361,7 @@ class Controller extends Common\Controller
     }
 
 }
+
+$chatApp = new Controller();
+
+?>
